@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Click y Gana</title>
+<style>
+body {
+  background: linear-gradient(135deg, pink, violet);
+  font-family: Arial;
+  text-align: center;
+  padding: 20px;
+}
+h1 { color: purple; }
+button {
+  background: purple;
+  color: white;
+  padding: 15px;
+  border: none;
+  border-radius: 12px;
+  margin: 10px;
+}
+</style>
+</head>
+<body>
+<h1>💜 Click y Gana 💗</h1>
+<h2>¡Divertite aprendiendo!</h2>
+<p>Respondé las preguntas y jugá con nosotros.</p>
+<button onclick="alert('¡Muy bien! Seguí jugando 💗')">Jugar</button>
+</body>
+</html>
